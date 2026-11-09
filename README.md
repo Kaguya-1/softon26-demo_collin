@@ -3,7 +3,7 @@
 Mini-repository om Git en GitHub te oefenen. De code hoeft niet te bouwen.
 
 ## Start
-1. Fork deze repository op GitHub: 'softon26'.
+1. Fork deze repository op GitHub: 'softon26-demo'.
 2. Clone de repository in VS Code.
 3. Werk in duo's: persoon A en persoon B.
 

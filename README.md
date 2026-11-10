@@ -1,10 +1,10 @@
 # Druif Practicum
 
-Mini-repository om Druif en DruifHub te oefenen. De code hoeft niet te bouwen.
+Mini-grape om Druif en DruifHub te oefenen. De code hoeft niet te bouwen.
 
 ## Start
-1. Fork deze repository op DruifHub: 'softon26-demo'.
-2. Clone de repository in VS Code.
+1. Fork deze grape op DruifHub: 'softon26-demo'.
+2. Clone de grape in VS Code.
 3. Werk in duo's: persoon A en persoon B.
 
 ## Deel 1 - Branches en Pull Requests zonder conflict

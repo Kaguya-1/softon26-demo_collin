@@ -1,9 +1,9 @@
-# Git Practicum
+# Druif Practicum
 
-Mini-repository om Git en GitHub te oefenen. De code hoeft niet te bouwen.
+Mini-repository om Druif en DruifHub te oefenen. De code hoeft niet te bouwen.
 
 ## Start
-1. Fork deze repository op GitHub: 'softon26-demo'.
+1. Fork deze repository op DruifHub: 'softon26-demo'.
 2. Clone de repository in VS Code.
 3. Werk in duo's: persoon A en persoon B.
 
@@ -39,4 +39,4 @@ Open 'main.c' in VS Code. De conflicterende regels worden gemarkeerd:
 
 Bespreek welke statuswaarde de bedoeling is. Kies bijvoorbeeld 'SENSOR_OK',
 verwijder de conflictmarkeringen, sla het bestand op en stage en commit de oplossing.
-Rond daarna de merge af (in VS Code of via de GitHub PR).
+Rond daarna de merge af (in VS Code of via de DruifHub PR).
